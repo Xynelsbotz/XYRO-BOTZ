@@ -66,39 +66,39 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
-global.nomorown = '6283863727401'
+global.nomorbot = '6285646458928'
+global.nomorown = '6285854337533'
 global.nomorown1 = '61483906014'
-global.nomorown2 = '6282214729677'//bisa nama pacarmu
-global.nomorown3 = '61483906014' //ganti 
+global.nomorown2 = '6285854337533'//bisa nama pacarmu
+global.nomorown3 = '6285854337533' //ganti 
 global.nomorwa = '0'//gakusah di ganti
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Amelia Botz'
-global.namebot = ' AMELIA BOTZ MD'
-global.wm = '© AMELIA BOTZ | PutraModz'
+global.author = 'Created By Xynels'
+global.namebot = ' XYRO BOTZ MD'
+global.wm = '© XYRO BOTZ | Xynels'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'PutraModz '
-global.wm3 = 'Amelia-MD'
+global.wm2 = 'Xynels '
+global.wm3 = 'XYRO-MD'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `AMELIA PUTRI SEPTIANY`
-global.stickpack = 'Amelia-Botz'
-global.gcname = 'Amelia Putri Septiany'
-global.nameown1= 'PutraModz'
-global.nameown2 = 'Purnama'
+global.titlebot = `XYNELS DESIGN`
+global.stickpack = 'Xyro-Botz'
+global.gcname = 'Xynels Design'
+global.nameown1= 'Xynels Design'
+global.nameown2 = 'Xynels'
 global.nameown3 = 'Nothing'
-global.packname2 = 'Amelia-MD'
-global.stickauth = `© PutraModz`
+global.packname2 = 'Xyro-MD'
+global.stickauth = `© XynelsDsg`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'PutraModz'
+global.nameown = 'Xynels'
 global.ultahowner = 'Febuari 02 2024'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
